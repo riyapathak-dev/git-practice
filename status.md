@@ -1,4 +1,4 @@
-More text to check changes
+This line belongs to the logfolder branch
 
 hello
 New text to check how we can later make multiline commit 
