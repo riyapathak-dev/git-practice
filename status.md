@@ -1,4 +1,4 @@
-More text to check changes
+This line belongs to the main branch.
 
 hello
 
