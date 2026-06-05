@@ -1,1 +1,2 @@
-More text 
+More text
+This is fun.
